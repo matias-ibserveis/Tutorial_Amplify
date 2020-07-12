@@ -1,0 +1,9 @@
+
+  Buscar un código de Svelte que tenga arrays y cargar ese array con la instrucción:
+  
+  
+
+  await API.graphql({
+        query: createTodo,
+        variables: {input: todo},
+      });
