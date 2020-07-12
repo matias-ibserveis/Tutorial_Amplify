@@ -4,7 +4,7 @@ Este tutorial, te guiará para establecer un backend e integrarlo en tu web app.
 
 En el siguiente enlace se elige el framework con el que se va a realizar el proyecto de ejemplo. 
 
-Para SVELTE , seleccionar ????
+Para SVELTE , seleccionar ----------
 
 https://docs.amplify.aws/start
 
